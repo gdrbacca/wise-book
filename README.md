@@ -13,7 +13,7 @@ npm install
 
 •DATABASE_DIRECT_URL e DATABASE_URL com os dados de acesso do seu banco de dados  Postgres
 
-Com o banco de dados configurado, execute o comando
+Com o banco de dados configurado, execute o comando abaixo para popular o banco
 ```bash
 npx prisma db seed
 ```
