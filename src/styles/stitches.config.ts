@@ -79,10 +79,4 @@ export const { styled, getCssText, globalCss } = createStitches({
       full: '99999px',
     },
   },
-
-  utils: {
-    colorLoginOut: (value) => ({
-      color: value,
-    }),
-  },
 })
