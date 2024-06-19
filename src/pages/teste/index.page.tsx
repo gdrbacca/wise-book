@@ -1,4 +1,3 @@
-import { LastRead } from '@/components/books/LastRead'
 import { PopularBooks } from '@/components/books/PopularBooks'
 import { ProfileBook } from '@/components/books/ProfileBook'
 import {
@@ -73,8 +72,6 @@ export default function Teste() {
         </StyledPopup>
         {/*  <RatingBook /> */}
         <br />
-        your last read
-        <LastRead userId="6624df61-5947-4f8c-9c7e-39c8c40fa158" />
         <br />
         profile book
         <ProfileBook
