@@ -41,3 +41,5 @@ bun dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu browser.
 
+Exemplo: https://wise-book.vercel.app/
+
